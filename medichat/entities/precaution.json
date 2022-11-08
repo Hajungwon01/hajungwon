@@ -1,0 +1,9 @@
+{
+  "id": "097e6f45-98a6-404d-afa8-4b6160721e7a",
+  "name": "precaution",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

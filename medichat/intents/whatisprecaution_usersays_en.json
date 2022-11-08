@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9b538c13-88c4-4980-953a-f42d84b49e6b",
+    "data": [
+      {
+        "text": "주의",
+        "meta": "@precaution",
+        "alias": "precaution",
+        "userDefined": false
+      },
+      {
+        "text": "해야 할 점은 무엇인가요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "340ff636-024f-4f71-b954-dd38c8f3f57a",
+    "data": [
+      {
+        "text": "이 약의 ",
+        "userDefined": false
+      },
+      {
+        "text": "주의사항",
+        "meta": "@precaution",
+        "alias": "precaution",
+        "userDefined": false
+      },
+      {
+        "text": "은",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 무엇인가요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

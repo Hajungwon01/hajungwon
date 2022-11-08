@@ -1,0 +1,116 @@
+[
+  {
+    "id": "d52a89e6-0360-49e7-ac30-c302d6281f4c",
+    "data": [
+      {
+        "text": "어떤 ",
+        "userDefined": false
+      },
+      {
+        "text": "효과",
+        "meta": "@efficacy",
+        "alias": "efficacy",
+        "userDefined": false
+      },
+      {
+        "text": "가 있습니까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "271eb605-bc78-45f5-87cb-8ac95ac24cf3",
+    "data": [
+      {
+        "text": "어떤 ",
+        "userDefined": false
+      },
+      {
+        "text": "효능",
+        "meta": "@efficacy",
+        "alias": "efficacy",
+        "userDefined": false
+      },
+      {
+        "text": "이 있습니까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8789855-3890-4d99-bf6f-04c16963c32c",
+    "data": [
+      {
+        "text": "효과",
+        "meta": "@efficacy",
+        "alias": "efficacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "841fb1dd-9a86-436a-84cb-9c33d4022bee",
+    "data": [
+      {
+        "text": "효능",
+        "meta": "@efficacy",
+        "alias": "efficacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36fc401e-f264-49d7-9cb9-ef5794d552ba",
+    "data": [
+      {
+        "text": "효과",
+        "meta": "@efficacy",
+        "alias": "efficacy",
+        "userDefined": false
+      },
+      {
+        "text": "가 무엇입니까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fae3464-faf6-4acd-ba94-a4524669297b",
+    "data": [
+      {
+        "text": "효능",
+        "meta": "@efficacy",
+        "alias": "efficacy",
+        "userDefined": false
+      },
+      {
+        "text": "은 무엇입니까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

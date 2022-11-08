@@ -1,0 +1,151 @@
+[
+  {
+    "id": "fd5f5132-03e0-43f2-a449-383a1b57f045",
+    "data": [
+      {
+        "text": "맞는거 같습니다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15588fc6-a852-490d-9d59-30b3e390e5c6",
+    "data": [
+      {
+        "text": "맞는거같아요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d85413bc-0481-4b67-b27b-270cd4777deb",
+    "data": [
+      {
+        "text": "응응",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c330e5f2-5008-47f3-87bc-3b5455e18c62",
+    "data": [
+      {
+        "text": "맞아요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cd50803-e93e-45b9-b6ac-bf5cff505ba0",
+    "data": [
+      {
+        "text": "예",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79b829ed-4b56-4e76-ae69-069a095fe47e",
+    "data": [
+      {
+        "text": "네",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1adab9e7-eff1-4239-98d4-8a4ee345914c",
+    "data": [
+      {
+        "text": "어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3eacc2d-2ef3-4d88-b975-406a97142b77",
+    "data": [
+      {
+        "text": "그거야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "164e5b7f-81b7-453e-9214-9a938cbb46f3",
+    "data": [
+      {
+        "text": "맞아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3705514-40b4-426c-8124-b1882e9c3dd9",
+    "data": [
+      {
+        "text": "그래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8904b7f-d60c-4cf2-9ef7-01cbc5991c6b",
+    "data": [
+      {
+        "text": "응",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

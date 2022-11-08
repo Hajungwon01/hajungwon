@@ -1,0 +1,78 @@
+[
+  {
+    "id": "9ebab2ef-1a91-4974-9d3d-b422515a66cb",
+    "data": [
+      {
+        "text": "어떤 ",
+        "userDefined": false
+      },
+      {
+        "text": "성분",
+        "meta": "@component",
+        "alias": "component",
+        "userDefined": true
+      },
+      {
+        "text": "이",
+        "userDefined": false
+      },
+      {
+        "text": " 들어있습니까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49bffc1e-2261-429d-8322-cab48d65cdf3",
+    "data": [
+      {
+        "text": "성분",
+        "meta": "@component",
+        "alias": "component",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de9ead20-e851-4860-b89c-14d05ee31f19",
+    "data": [
+      {
+        "text": "주성분",
+        "meta": "@component",
+        "alias": "component",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ec252f9-3484-4b66-a5c0-07a9035c1025",
+    "data": [
+      {
+        "text": "주성분",
+        "meta": "@component",
+        "alias": "component",
+        "userDefined": true
+      },
+      {
+        "text": "은 무엇입니까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

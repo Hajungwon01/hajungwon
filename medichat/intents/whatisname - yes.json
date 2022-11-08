@@ -1,0 +1,79 @@
+{
+  "id": "4f5b7687-9941-4f91-8a8d-e1fc75b4a25e",
+  "parentId": "63b97ff5-7982-47bc-af11-25cbe864819b",
+  "rootParentId": "63b97ff5-7982-47bc-af11-25cbe864819b",
+  "name": "whatisname - yes",
+  "auto": true,
+  "contexts": [
+    "medicine_name",
+    "whatisname-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "whatisname.whatisname-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "12850ff8-dac1-4a3a-9987-873ebac66af5",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7ed7c26b-edca-45e3-b5a6-8cd90054a2ff",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "이 약의 어떤 정보가 궁금하신가요?",
+            "어떤 정보를 알려드릴까요?",
+            "어떤 정보가 궁금하신가요?",
+            "무슨 정보를 알려드릴까요?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

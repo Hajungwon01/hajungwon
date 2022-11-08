@@ -1,0 +1,9 @@
+{
+  "id": "ede42b0c-f4d7-43da-a445-098166b56e3f",
+  "name": "sideeffect",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

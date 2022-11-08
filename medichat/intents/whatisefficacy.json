@@ -1,0 +1,54 @@
+{
+  "id": "f7228f62-6d47-48eb-b2ba-baab6c3c8df3",
+  "name": "whatisefficacy",
+  "auto": true,
+  "contexts": [
+    "medicine_name"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "medicine_name",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eaf2bdb5-e11c-4152-b2c7-2d3bb33cb0c1",
+          "name": "efficacy",
+          "required": false,
+          "dataType": "@efficacy",
+          "value": "$efficacy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

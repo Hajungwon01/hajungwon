@@ -1,0 +1,54 @@
+[
+  {
+    "id": "af0c703c-657d-4882-9b97-6ecc236b20d0",
+    "data": [
+      {
+        "text": "이 약은 어떻게 ",
+        "userDefined": false
+      },
+      {
+        "text": "보관",
+        "meta": "@Storage_method",
+        "alias": "storage_method",
+        "userDefined": false
+      },
+      {
+        "text": "하나요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfa0e8c5-9bf0-46d9-902e-79160aa625de",
+    "data": [
+      {
+        "text": "약의 ",
+        "userDefined": false
+      },
+      {
+        "text": "보관 방법",
+        "meta": "@Storage_method",
+        "alias": "storage_method",
+        "userDefined": false
+      },
+      {
+        "text": "은",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 무엇인가요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

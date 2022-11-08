@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8b69103c-0ed0-4088-a145-73746aed9039",
+    "data": [
+      {
+        "text": "안녕하세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4dc0759-cbc1-4ac1-8dda-09dcda6c3fe9",
+    "data": [
+      {
+        "text": "안녕",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

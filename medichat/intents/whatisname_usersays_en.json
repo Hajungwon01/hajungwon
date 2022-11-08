@@ -1,0 +1,112 @@
+[
+  {
+    "id": "3749d8e9-44e4-4c31-a3a9-759a927365eb",
+    "data": [
+      {
+        "text": "구아내정",
+        "meta": "@medicine",
+        "alias": "medicine",
+        "userDefined": false
+      },
+      {
+        "text": "에 대한 정보를 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c8ceb7a-76b2-4596-9602-6ad39813af6c",
+    "data": [
+      {
+        "text": "구아내정",
+        "meta": "@medicine",
+        "alias": "medicine",
+        "userDefined": false
+      },
+      {
+        "text": "에 대해서 궁금해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a96455ca-87ac-42cf-9877-a55a9ba94e60",
+    "data": [
+      {
+        "text": "가네골드액",
+        "meta": "@medicine",
+        "alias": "medicine",
+        "userDefined": true
+      },
+      {
+        "text": "에 대해서 알고 싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f4dab47-6bcc-43c7-947d-41607d3a6910",
+    "data": [
+      {
+        "text": "베아제정",
+        "meta": "@medicine",
+        "alias": "medicine",
+        "userDefined": false
+      },
+      {
+        "text": "이에요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd6068ce-9aab-438c-9005-94cab41b6114",
+    "data": [
+      {
+        "text": "베아제정",
+        "meta": "@medicine",
+        "alias": "medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b05fd5e1-7ed5-4b6f-9fc7-d6bca3647d13",
+    "data": [
+      {
+        "text": "베아제정",
+        "meta": "@medicine",
+        "alias": "medicine",
+        "userDefined": false
+      },
+      {
+        "text": "입니다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "6eae2a75-6a2e-48dd-96b2-94186b873e50",
+  "name": "whatishowtotake",
+  "auto": true,
+  "contexts": [
+    "medicine_name"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "medicine_name",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "172f0e08-1504-4c1b-bb4d-c9566004f7c9",
+          "name": "howtotake",
+          "required": false,
+          "dataType": "@howtotake",
+          "value": "$howtotake",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

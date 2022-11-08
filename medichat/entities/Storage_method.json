@@ -1,0 +1,9 @@
+{
+  "id": "a72004d6-1127-4d11-818f-143dc8d98e79",
+  "name": "Storage_method",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

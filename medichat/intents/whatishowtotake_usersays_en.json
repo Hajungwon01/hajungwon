@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ac1611ee-91d1-4347-88cd-f1cc23d17f43",
+    "data": [
+      {
+        "text": "복용",
+        "meta": "@howtotake",
+        "alias": "howtotake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5bd8ee9-bcd9-45c9-a8fc-6a34674f03cb",
+    "data": [
+      {
+        "text": "어떻게",
+        "meta": "@howtotake",
+        "alias": "howtotake",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "복용",
+        "meta": "@howtotake",
+        "alias": "howtotake",
+        "userDefined": false
+      },
+      {
+        "text": "하나요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01ae3a25-41fd-4a25-9502-f57669573f7c",
+    "data": [
+      {
+        "text": "복용방법",
+        "meta": "@howtotake",
+        "alias": "howtotake",
+        "userDefined": false
+      },
+      {
+        "text": "은 무엇입니까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

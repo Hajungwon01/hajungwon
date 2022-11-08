@@ -1,0 +1,54 @@
+{
+  "id": "f8862a32-3ec9-4ce2-9578-31fe4d998304",
+  "name": "whatiscomponent",
+  "auto": true,
+  "contexts": [
+    "medicine_name"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "medicine_name",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c4be7f06-13fa-4273-83a6-9bf12f5b99e1",
+          "name": "component",
+          "required": false,
+          "dataType": "@component",
+          "value": "$component",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
